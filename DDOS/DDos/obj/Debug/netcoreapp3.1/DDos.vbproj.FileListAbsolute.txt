@@ -1,0 +1,14 @@
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.exe
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.deps.json
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.runtimeconfig.json
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.runtimeconfig.dev.json
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.dll
+C:\Users\KARACA\source\repos\DDos\DDos\bin\Debug\netcoreapp3.1\DDos.pdb
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.vbproj.AssemblyReference.cache
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.AssemblyInfoInputs.cache
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.AssemblyInfo.vb
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.vbproj.CoreCompileInputs.cache
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.dll
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.pdb
+C:\Users\KARACA\source\repos\DDos\DDos\obj\Debug\netcoreapp3.1\DDos.genruntimeconfig.cache
